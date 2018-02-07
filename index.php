@@ -7,9 +7,12 @@
  </title>
  </head>
 </html>
-
+<body>
 <?php
  echo "emmanuel";
  
 
 ?>
+
+</body>
+</html>
