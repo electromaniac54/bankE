@@ -10,7 +10,15 @@
 <body>
 <?php
  echo "emmanuel";
+class emmanuel{
  
+ function con($name){
+  $this->name=$name;
+ }
+ public function getname(){
+  return $this->name;
+ }
+}
 
 ?>
 
