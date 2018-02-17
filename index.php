@@ -2,7 +2,6 @@
 
 <head>
  <title>
- 
  Emmanuel
  </title>
  </head>
@@ -19,7 +18,8 @@ class emmanuel{
   return $this->name;
  }
 }
-
+echo "love is in the air ";
+ 
 ?>
 
 </body>
